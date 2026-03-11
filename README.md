@@ -89,9 +89,6 @@ novagen-health-classifier/
 ├── 📂 docs/
 │   └── model_comparison.png               ← Auto-generated comparison chart
 │
-├── 📂 assignment/
-│   └── Supervised_ML__Assignment5.pdf     ← Original problem statement
-│
 ├── requirements.txt
 ├── .gitignore
 └── README.md

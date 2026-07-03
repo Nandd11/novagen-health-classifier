@@ -11,7 +11,7 @@ st.write("Enter patient metrics below to compute real-time health risk stratific
 # 2. Load Pre-trained Artifacts Safely
 @st.cache_resource
 def load_model_artifacts():
-    model_path = os.path.join("models", "random_forest_model.pkl")
+    models_path = os.path.join("models", "random_forest_model.pkl")
     scaler_path = os.path.join("models", "scaler.pkl")
     
     if not os.path.exists(model_path) or not os.path.exists(scaler_path):

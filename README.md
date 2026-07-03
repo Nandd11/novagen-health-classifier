@@ -135,9 +135,3 @@ Start with `notebooks/01_novagen_main_project.ipynb` for the complete project.
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.0-red)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?logo=pandas)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-
----
-
-## 📄 License
-
-This project is for academic purposes — Supervised ML Assignment 5.
